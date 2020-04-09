@@ -4,9 +4,9 @@ import "../styles/app.css"
 import Layout from "../components/layout/layout"
 
 const IndexPage = () => (
-  <Layout>
-    <header>hrloo</header>
-  </Layout>
+    <Layout>
+        frrrr
+    </Layout>
 )
 
 

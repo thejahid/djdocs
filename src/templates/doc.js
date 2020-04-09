@@ -7,8 +7,11 @@ export default function Template({ data }) {
     const { frontmatter, html } = markdownRemark
     return (
         <Layout>
-            <h1>{frontmatter.title}</h1>
-            <h6>{frontmatter.date}</h6>
+            <div className="title">
+               <p className="head1">{frontmatter.title}</p>
+                <span className="date">{frontmatter.date}</span> 
+            </div>
+            
             <div
             className="doc-post-content"
             dangerouslySetInnerHTML={{ __html: html }}

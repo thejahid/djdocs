@@ -1,5 +1,5 @@
 ---
-path: doc/image-center
+path: /doc/image-center
 date: 2020-04-09T04:30:21.488Z
 title: Image Center/ Left/ Right
 ---

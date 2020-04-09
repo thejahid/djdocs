@@ -1,5 +1,6 @@
-backend: github
-  name: developerjahid/djdocs
+backend:
+  name: github
+  repo: developerjahid/djdocs
   
 media_folder: static/assets
 public_folder: assets

@@ -1,7 +1,7 @@
 ---
-path: /doc/image-center
+path: /doc/netlifycms-gatsby
 date: 2020-04-10T04:47:52.036Z
-title: Image Center/ Left/ Right
+title: NetlifyCMS Gatsby Website
 ---
 1. Create New Project:
 
@@ -23,13 +23,9 @@ module.exports = {
 }
 ```
 
-3. Then create a `static/admin `directory and a `config.yml `file in it.
-
-   <!--StartFragment-->
+3. Then create a `static/admin`directory and a `config.yml`file in it.
 
    .static/admin/config.yml
-
-   <!--EndFragment-->
 
 <!--StartFragment-->
 
